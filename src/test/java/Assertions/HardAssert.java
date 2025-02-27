@@ -18,7 +18,7 @@ public class HardAssert {
 		
 		driver.get("https://www.facebook.com");
 		
-		
+		//changes done in eclipse
 		String title = driver.getTitle();
 		
 		//hard assert
